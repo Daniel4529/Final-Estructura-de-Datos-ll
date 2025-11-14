@@ -1,6 +1,5 @@
-=========================
-# 3. CIFRADO Y FIRMA RSA
-# =============================================
+Modo de trabajo de rsa (como implemetarlo)
+
 def es_primo(n):
     if n < 2:
         return False
